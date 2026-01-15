@@ -76,6 +76,24 @@ git commit -m "feat: homepage"
 git push origin main
 ```
 
+<small>***Mi interpretación de lo que ha hecho cada comando:***
+
+cd /workspaces/ci-cd  # cambiar de directorio
+
+git status # informa de los cambios no añadidos (add) o actualizados (restore) y de untracked files
+
+git add . # añade el repositorio actual
+
+git commit -m "feat: homepage" # concentra todos los archivos de todos los directorios
+
+git push origin main # actualiza los cambios al main (?)*.</small>
+
+**Comprobación**
+![Comprobación rama](./screenshots/comprob_rama.png)
+
+## 6. Ramas
+En Git veremos
+
 ## 8. Enlaces útiles
 - [Documentación oficial](https://link.com)
 - [Recurso 1](https://link.com)
