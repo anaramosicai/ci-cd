@@ -1,4 +1,4 @@
-# Práctica 1: Entorno de desarrollo
+# Introducción a Git/Github
 
 ## 1. Introducción
 En esta práctica seguiremos el guión de la introducción a GIT de la asignatura PAT.
@@ -89,6 +89,7 @@ git commit -m "feat: homepage" # concentra todos los archivos de todos los direc
 git push origin main # actualiza los cambios al main (?)*.</small>
 
 **Comprobación**
+
 ![Comprobación rama](./screenshots/comprob_rama.png)
 
 ## 6. Ramas
