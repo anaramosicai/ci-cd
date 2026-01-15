@@ -95,6 +95,12 @@ git push origin main # actualiza los cambios al main (?)*.</small>
 ## 6. Ramas
 En Git veremos
 
+## 7. CI
+Intergación continua - CI: Es para que todos los cambios se pasen a un flujo de compilación/pruebas (de forma automáticas), me pase el validador de los pullrequest. 
+
+1. Hará los push de forma automática los archivos y validará los hmtls.
+2. Da error: Primero porque falta un título en el html y el lenguaje del mismo
+
 ## 8. Enlaces útiles
 - [Documentación oficial](https://link.com)
 - [Recurso 1](https://link.com)
