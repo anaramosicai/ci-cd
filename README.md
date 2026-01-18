@@ -101,6 +101,11 @@ Intergación continua - CI: Es para que todos los cambios se pasen a un flujo de
 1. Hará los push de forma automática los archivos y validará los hmtls.
 2. Da error: Primero porque falta un título en el html y el lenguaje del mismo
 
-## 8. Enlaces útiles
-- [Documentación oficial](https://link.com)
-- [Recurso 1](https://link.com)
+## 8. CD
+Despliegue continuo - CD: Es la partición/programa que se encarga de subir los cambios a la página web.
+
+## 9. CI/CD
+
+
+## 10. Enlaces útiles
+- [Documentación oficial](https://apicai.github.io/web-ejercicios-pat/intro/git/git.html)
